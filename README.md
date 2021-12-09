@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou Guilherme Vieira
 - 👀 Sou fascinado por sistemas embarcados, automação IOT  e tecnologias de desenvolvimento de firmware/software;
-- 🌱 Atualemte estou aprimorando meus conhecimentos nas linguagens C/C++ na programação de microcontroladores 32bits das linhas ARM, ESP e PIC;
+- 🌱 Atualmente estou aprimorando meus conhecimentos nas linguagens C/C++ na programação de microcontroladores 32bits das linhas ARM, ESP e PIC;
 - 💞️ Estou em busca do desenvolvimento de novas bibliotecas de código aberto , além de metodologias de ensino para sistemas embarcados;
 - 📫 Guivdom@gmail.com
 
