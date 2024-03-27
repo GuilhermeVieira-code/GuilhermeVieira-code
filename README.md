@@ -13,5 +13,5 @@
 - 💞️ I'm currently developing mobile apps in Dart(Flutter) using Flutterflow.
 - 📫 Guivdom@gmail.com
 - Brazil, SP.
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/GuilhermeVieira-code/GuilhermeVieira-code/output/github-contribution-grid-snake-dark.svg)
 
